@@ -9,7 +9,7 @@ You can call this theme in two ways:
 * <https://blog.fefe.de/?css=http(s)://yourhosting.domain/edfefecss/edfefe.css><br>
   The second method includes all additional images and font from separate files.
 
-The used font is called monofur and is free. see <www.dafont.com/monofur.font> (Jan 12 2014)
+The used font is called monofur and is free. See <http://www.dafont.com/monofur.font> (Jan 12 2014)
 
 ### License
 
