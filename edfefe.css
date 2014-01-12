@@ -231,6 +231,6 @@ div[style='text-align:center'] + div[style='text-align:right'] {
   font-size: 0.8em;
 }
 
-div[style='text-align:right']:before {
-  content: "CSS by blog.bombenlabor.de/Niko | ";
-}
+/*div[style='text-align:right']:before {*/
+/*  content: "CSS by blog.bombenlabor.de/Niko | ";*/
+/*}*/
