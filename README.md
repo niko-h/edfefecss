@@ -1,7 +1,7 @@
 edfefecss
 =========
 
-A custom css for https://blog.fefe.de/
+A custom css for <https://blog.fefe.de/>
 
 You can call this theme in two ways:
 * <https://blog.fefe.de/?css=http(s)://yourhosting.domain/edfefecss/edfefebase64.css><br>
