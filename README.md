@@ -11,7 +11,7 @@ You can call this theme in two ways:
 
 The used font is called monofur and is free. see <www.dafont.com/monofur.font> (Jan 12 2014)
 
-## License
+### License
 
 "THE WURZEL LICENSE" (Revision 4): ed@bombenlabor.de created this software. 
 You can do with it whatever you want under the following conditions: 
