@@ -4,12 +4,12 @@ edfefecss
 A custom css for https://blog.fefe.de/
 
 You can call this theme in two ways:
-* https://blog.fefe.de/?css=http(s)://yourhosting.domain/edfefecss/edfefebase64.css
+* <https://blog.fefe.de/?css=http(s)://yourhosting.domain/edfefecss/edfefebase64.css><br>
   The first method contains all additional images and font as base64-encoded data-urls.
-* https://blog.fefe.de/?css=http(s)://yourhosting.domain/edfefecss/edfefe.css
+* <https://blog.fefe.de/?css=http(s)://yourhosting.domain/edfefecss/edfefe.css><br>
   The second method includes all additional images and font from separate files.
 
-The used font is called monofur and is free. see [www.dafont.com/monofur.font](www.dafont.com/monofur.font) (Jan 12 2014)
+The used font is called monofur and is free. see <www.dafont.com/monofur.font> (Jan 12 2014)
 
 ## License
 
@@ -21,5 +21,5 @@ with human rights. All parts of this material must remain open source.
 If we meet some day, and you think this stuff is worth it, 
 you can buy me a beer in return. Niko
 
-[https://github.com/niko-h/Wurzel-Licence](https://github.com/niko-h/Wurzel-Licence) (Jan 12 2014)
+<https://github.com/niko-h/Wurzel-Licence> (Jan 12 2014)
 
