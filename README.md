@@ -5,10 +5,9 @@ A custom css for https://blog.fefe.de/
 
 You can call this theme in two ways:
 * https://blog.fefe.de/?css=http(s)://yourhosting.domain/edfefecss/edfefebase64.css
+  The first method contains all additional images and font as base64-encoded data-urls.
 * https://blog.fefe.de/?css=http(s)://yourhosting.domain/edfefecss/edfefe.css
-
-The first method contains all additional images and font as base64-encoded data-urls.
-The second method includes all additional images and font from separate files.
+  The second method includes all additional images and font from separate files.
 
 The used font is called monofur and is free. see [www.dafont.com/monofur.font](www.dafont.com/monofur.font) (Jan 12 2014)
 
