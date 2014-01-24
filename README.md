@@ -3,11 +3,13 @@ edfefecss
 
 A custom css for <https://blog.fefe.de/>
 
-You can call this theme in two ways:
+You can call this theme in three ways:
+* <http://blog.fefe.de/?css=edfefe.css><br>
+* The first method is hosted by fefe
 * <https://blog.fefe.de/?css=http(s)://yourhosting.domain/edfefecss/edfefebase64.css><br>
-  The first method contains all additional images and font as base64-encoded data-urls.
+  The second method contains all additional images and font as base64-encoded data-urls.
 * <https://blog.fefe.de/?css=http(s)://yourhosting.domain/edfefecss/edfefe.css><br>
-  The second method includes all additional images and font from separate files.
+  The third method includes all additional images and font from separate files.
 
 The used font is called monofur and is free. See <http://www.dafont.com/monofur.font> (Jan 12 2014)
 
