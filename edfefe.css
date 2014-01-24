@@ -1,4 +1,8 @@
 /***
+ * 
+ * Edfefe.css - https://github.com/niko-h/edfefecss
+ * 
+ * 
  * License
  *
  * "THE WURZEL LICENSE" (Revision 4): ed@bombenlabor.de created this software. 
@@ -85,7 +89,7 @@ h2 a:active {
   margin: 10px 5px 10px 5px;
   color: #9f9;
   font-weight: normal;
-  font-family: monofurregular, Arial;
+  font-family: monofurregular, monofur, Arial;
   text-transform: uppercase;
   font-size: 1.5em;
   vertical-align: middle;
@@ -116,7 +120,7 @@ h3 {
   color: #222;
   height: 40px;
   padding-left: 20px;
-  font-family: monofurregular, Arial;
+  font-family: monofurregular, monofur, Arial;
   text-transform: uppercase;
 }
 
@@ -192,13 +196,13 @@ body > ul > li > a:first-child:hover {
 
 body > ul > li > a:first-child:before {
   color: #444;
-  font-family: monofurregular, Arial;
+  font-family: monofurregular, monofur, Arial;
   content: "Permalink:";
   text-transform: uppercase;
 }
 body > ul > li > a:first-child:after {
   color: #484;
-  font-family: monofurregular, Arial;
+  font-family: monofurregular, monofur, Arial;
   content: "http://blog.fefe.de" attr(href);
   text-decoration: underline;
 }
